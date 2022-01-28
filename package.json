@@ -13,7 +13,7 @@
     "url": "git+https://github.com/goitacademy/parcel-project-template.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Nataliia Nazarko <nataliianazarko@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/nataliia-nazarko/goit-js-hw-8/issues"
@@ -27,6 +27,7 @@
   },
   "dependencies": {
     "@vimeo/player": "^2.16.2",
+    "lodash.throttle": "^4.1.1",
     "simplelightbox": "^2.10.2"
   }
 }
