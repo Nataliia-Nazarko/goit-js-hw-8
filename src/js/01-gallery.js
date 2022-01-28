@@ -31,6 +31,7 @@ function createGalleryMarkup(galleryItems) {
 
           
 let modalGallery = new SimpleLightbox('.gallery a', {
+    caption: true,
     captionsData: 'alt',
     captionPosition: 'bottom',
     captionDelay: 250,    
